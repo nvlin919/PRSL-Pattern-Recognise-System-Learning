@@ -1,2 +1,2 @@
-# PRSL-Pattern-Recognise-System-Learning
+# PRSL-Pattern-Recognition-and-Statistical-Learning
 Curriculum homework in the second volume of the junior year.
